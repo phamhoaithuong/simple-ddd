@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\Ecommerce\Ecommerce.Infrastructure\bin\Debug\netcoreapp3.1\Ecommerce.Infrastructure.deps.json
+C:\Users\ASUS\source\repos\Ecommerce\Ecommerce.Infrastructure\bin\Debug\netcoreapp3.1\Ecommerce.Infrastructure.dll
+C:\Users\ASUS\source\repos\Ecommerce\Ecommerce.Infrastructure\obj\Debug\netcoreapp3.1\Ecommerce.Infrastructure.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Ecommerce\Ecommerce.Infrastructure\obj\Debug\netcoreapp3.1\Ecommerce.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Ecommerce\Ecommerce.Infrastructure\obj\Debug\netcoreapp3.1\Ecommerce.Infrastructure.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Ecommerce\Ecommerce.Infrastructure\bin\Debug\netcoreapp3.1\Ecommerce.Infrastructure.runtimeconfig.json
+C:\Users\ASUS\source\repos\Ecommerce\Ecommerce.Infrastructure\bin\Debug\netcoreapp3.1\Ecommerce.Infrastructure.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Ecommerce\Ecommerce.Infrastructure\obj\Debug\netcoreapp3.1\Ecommerce.Infrastructure.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Ecommerce\Ecommerce.Infrastructure\bin\Debug\netcoreapp3.1\Ecommerce.Infrastructure.pdb
+C:\Users\ASUS\source\repos\Ecommerce\Ecommerce.Infrastructure\obj\Debug\netcoreapp3.1\Ecommerce.Infrastructure.dll
+C:\Users\ASUS\source\repos\Ecommerce\Ecommerce.Infrastructure\obj\Debug\netcoreapp3.1\Ecommerce.Infrastructure.pdb
+C:\Users\ASUS\source\repos\Ecommerce\Ecommerce.Infrastructure\obj\Debug\netcoreapp3.1\Ecommerce.Infrastructure.csproj.CoreCompileInputs.cache

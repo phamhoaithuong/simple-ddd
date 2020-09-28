@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\Ecommerce\Ecommerce.DI\bin\Debug\netcoreapp3.1\Ecommerce.DI.deps.json
+C:\Users\ASUS\source\repos\Ecommerce\Ecommerce.DI\bin\Debug\netcoreapp3.1\Ecommerce.DI.dll
+C:\Users\ASUS\source\repos\Ecommerce\Ecommerce.DI\obj\Debug\netcoreapp3.1\Ecommerce.DI.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Ecommerce\Ecommerce.DI\obj\Debug\netcoreapp3.1\Ecommerce.DI.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Ecommerce\Ecommerce.DI\obj\Debug\netcoreapp3.1\Ecommerce.DI.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Ecommerce\Ecommerce.DI\bin\Debug\netcoreapp3.1\Ecommerce.DI.pdb
+C:\Users\ASUS\source\repos\Ecommerce\Ecommerce.DI\bin\Debug\netcoreapp3.1\Ecommerce.Domain.dll
+C:\Users\ASUS\source\repos\Ecommerce\Ecommerce.DI\bin\Debug\netcoreapp3.1\Ecommerce.Infrastructure.dll
+C:\Users\ASUS\source\repos\Ecommerce\Ecommerce.DI\bin\Debug\netcoreapp3.1\Ecommerce.Service.dll
+C:\Users\ASUS\source\repos\Ecommerce\Ecommerce.DI\bin\Debug\netcoreapp3.1\Ecommerce.Domain.pdb
+C:\Users\ASUS\source\repos\Ecommerce\Ecommerce.DI\bin\Debug\netcoreapp3.1\Ecommerce.Infrastructure.pdb
+C:\Users\ASUS\source\repos\Ecommerce\Ecommerce.DI\bin\Debug\netcoreapp3.1\Ecommerce.Service.pdb
+C:\Users\ASUS\source\repos\Ecommerce\Ecommerce.DI\obj\Debug\netcoreapp3.1\Ecommerce.DI.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Ecommerce\Ecommerce.DI\obj\Debug\netcoreapp3.1\Ecommerce.DI.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Ecommerce\Ecommerce.DI\obj\Debug\netcoreapp3.1\Ecommerce.DI.dll
+C:\Users\ASUS\source\repos\Ecommerce\Ecommerce.DI\obj\Debug\netcoreapp3.1\Ecommerce.DI.pdb
